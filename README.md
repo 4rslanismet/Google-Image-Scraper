@@ -10,7 +10,7 @@ Visit their repo here: https://github.com/4rslanismet/Google-Image-Scraper
 
 ## Setup:
 1. Open command prompt
-2. Clone this repository (or [download](https://github.com/4rslanismet/Google-Image-Scraper/archive/refs/heads/master.zip))
+2. Clone this repository (or (https://github.com/4rslanismet/Google-Image-Scraper/archive/refs/heads/master.zip))
     ```
     git clone https://github.com/4rslanismet/Google-Image-Scraper
     ```
